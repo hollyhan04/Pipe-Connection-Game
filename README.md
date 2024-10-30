@@ -14,3 +14,5 @@ Use the PS2 keyboard to maneuver the pipes and conquer each level. Are you ready
 
 ## 2. Keyboard Guide
 <img width="610" alt="Screenshot 2024-10-30 at 12 35 33 AM" src="https://github.com/user-attachments/assets/0faa5dd4-ad2c-4bd0-821f-d66f4eafe15f">
+
+## To see the work sample, please visit youtu.be/oQ3fAyQlwMk
